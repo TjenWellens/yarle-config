@@ -1,0 +1,51 @@
+{
+	"enexSources": [
+		"/Users/tjen/Downloads/evernote/export_test.enex"
+	],
+	"templateFile": "/Users/tjen/dev/tjen/yarle-config/template.tmpl",
+	"outputDir": "/Users/tjen/Downloads/obsidian/",
+	"resourcesDir": "resources",
+	"isZettelkastenNeeded": false,
+	"useZettelIdAsFilename": false,
+	"plainTextNotesOnly": false,
+	"useHashTags": true,
+	"outputFormat": "ObsidianMD",
+	"haveEnexLevelResources": false,
+	"haveGlobalResources": true,
+	"monospaceIsCodeBlock": false,
+	"dateFormat": "YYYY-MM-DD",
+	"keepMDCharactersOfENNotes": false,
+	"nestedTags": {
+		"separatorInEN": ".",
+		"replaceSeparatorWith": "/",
+		"replaceSpaceWith": "-"
+	},
+	"urlEncodeFileNamesAndLinks": false,
+	"replacementCharacterMap": {
+		"<": "_",
+		">": "_",
+		":": "_",
+		"\"": "_",
+		"/": "_",
+		"\\": "_",
+		"|": "_",
+		"?": "_",
+		"*": "_"
+	},
+	"keepOriginalAmountOfNewlines": true,
+	"addExtensionToInternalLinks": true,
+	"turndownOptions": {
+		"headingStyle": "atx"
+	},
+	"obsidianSettings": {
+		"omitLinkDisplayName": false
+	},
+	"logseqSettings": {
+		"journalNotes": false
+	},
+	"taskOutputFormat": "ObsidianMD",
+	"useUniqueUnknownFileNames": false,
+	"useLevenshteinForLinks": false,
+	"skipWebClips": false,
+	"skipEnexFileNameFromOutputPath": false
+}
