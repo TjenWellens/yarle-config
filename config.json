@@ -3,7 +3,7 @@
 		"/Users/tjen/Downloads/evernote/export_test.enex"
 	],
 	"templateFile": "/Users/tjen/dev/tjen/yarle-config/template.tmpl",
-	"outputDir": "/Users/tjen/Downloads/obsidian/",
+	"outputDir": "/Users/tjen/Downloads/obsidian",
 	"resourcesDir": "resources",
 	"isZettelkastenNeeded": false,
 	"useZettelIdAsFilename": false,
