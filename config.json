@@ -10,7 +10,7 @@
 	"plainTextNotesOnly": false,
 	"useHashTags": true,
 	"outputFormat": "ObsidianMD",
-	"haveEnexLevelResources": true,
+	"haveEnexLevelResources": false,
 	"haveGlobalResources": false,
 	"monospaceIsCodeBlock": false,
 	"dateFormat": "YYYY-MM-DD",
