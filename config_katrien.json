@@ -1,0 +1,71 @@
+{
+	"enexSources": [
+		"/Users/tjen/Downloads/yarle-katrien/input/huis tuin.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/Mail mpi frans.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/uk-health.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/archief.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/werk.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/medisch dossier.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/opvoeden, kinderen, baby.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/algemeen.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/Katrien & Tjen.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/kinderen opvoeding ontwikkeling.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/tijdelijk notes.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/recepten.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/Tips van Sarah of anderen verhuisManchester.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/alternatieve geneeskunde.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/shared with Katrien.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/blog notebook k.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/Tjen en relatie dingen.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/UK life.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/stage.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/snelle recepten.enex",
+		"/Users/tjen/Downloads/yarle-katrien/input/dingen voor mezelf groei mogelijkheden.enex"
+	],
+	"templateFile": "/Users/tjen/dev/tjen/yarle-config/template-katrien.tmpl",
+	"outputDir": "/Users/tjen/Downloads/yarle-katrien/output",
+	"resourcesDir": "resources",
+	"isZettelkastenNeeded": false,
+	"useZettelIdAsFilename": false,
+	"plainTextNotesOnly": false,
+	"useHashTags": true,
+	"outputFormat": "ObsidianMD",
+	"haveEnexLevelResources": false,
+	"haveGlobalResources": false,
+	"monospaceIsCodeBlock": false,
+	"dateFormat": "YYYY-MM-DD",
+	"keepMDCharactersOfENNotes": false,
+	"nestedTags": {
+		"separatorInEN": ".",
+		"replaceSeparatorWith": "/",
+		"replaceSpaceWith": "-"
+	},
+	"urlEncodeFileNamesAndLinks": false,
+	"replacementCharacterMap": {
+		"<": "_",
+		">": "_",
+		":": "_",
+		"\"": "_",
+		"/": "_",
+		"\\": "_",
+		"|": "_",
+		"?": "_",
+		"*": "_"
+	},
+	"keepOriginalAmountOfNewlines": true,
+	"addExtensionToInternalLinks": true,
+	"turndownOptions": {
+		"headingStyle": "atx"
+	},
+	"obsidianSettings": {
+		"omitLinkDisplayName": false
+	},
+	"logseqSettings": {
+		"journalNotes": false
+	},
+	"taskOutputFormat": "ObsidianMD",
+	"useUniqueUnknownFileNames": false,
+	"useLevenshteinForLinks": false,
+	"skipWebClips": false,
+	"skipEnexFileNameFromOutputPath": false
+}
