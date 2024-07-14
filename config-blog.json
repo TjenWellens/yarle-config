@@ -1,8 +1,8 @@
 {
 	"enexSources": [
-		"/Users/tjen/Downloads/yarle-test/input/export_test.enex"
+		"/Users/tjen/Documents/evernote/all/Blog.enex"
 	],
-	"templateFile": "/Users/tjen/dev/tjen/yarle-config/template.tmpl",
+	"templateFile": "/Users/tjen/dev/tjen/yarle-config/template-blog.tmpl",
 	"outputDir": "/Users/tjen/Downloads/yarle-test/output",
 	"resourcesDir": "resources",
 	"isZettelkastenNeeded": true,

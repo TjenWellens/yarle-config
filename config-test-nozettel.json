@@ -1,12 +1,13 @@
 {
+	"keepEvernoteLinkIfNoNoteFound": false,
 	"enexSources": [
-		"/Users/tjen/Downloads/yarle-test/input/export_test.enex"
+		"/Users/tjen/Downloads/yarle-test/input/"
 	],
 	"templateFile": "/Users/tjen/dev/tjen/yarle-config/template.tmpl",
 	"outputDir": "/Users/tjen/Downloads/yarle-test/output",
 	"resourcesDir": "resources",
-	"isZettelkastenNeeded": true,
-	"useZettelIdAsFilename": true,
+	"isZettelkastenNeeded": false,
+	"useZettelIdAsFilename": false,
 	"plainTextNotesOnly": false,
 	"useHashTags": true,
 	"outputFormat": "ObsidianMD",
