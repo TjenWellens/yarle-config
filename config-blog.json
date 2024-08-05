@@ -22,7 +22,7 @@
 	},
 	"urlEncodeFileNamesAndLinks": false,
 	"replacementCharacterMap": {
-		" ": "-",
+		" ": "_",
 		"é": "e",
 		"ö": "o",
 		"ø": "o",
