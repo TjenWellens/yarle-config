@@ -1,12 +1,12 @@
 {
 	"enexSources": [
-		"/Users/tjen/Documents/evernote/all/Blog.enex"
+		"/Users/tjen/Downloads/yarle-run/input/evernote.toc/all/Blog.enex"
 	],
 	"templateFile": "/Users/tjen/dev/tjen/yarle-config/template-blog.tmpl",
-	"outputDir": "/Users/tjen/Downloads/yarle-test/output",
+	"outputDir": "/Users/tjen/Downloads/yarle-run/output2",
 	"resourcesDir": "resources",
-	"isZettelkastenNeeded": true,
-	"useZettelIdAsFilename": true,
+	"isZettelkastenNeeded": false,
+	"useZettelIdAsFilename": false,
 	"plainTextNotesOnly": false,
 	"useHashTags": true,
 	"outputFormat": "ObsidianMD",
@@ -22,6 +22,30 @@
 	},
 	"urlEncodeFileNamesAndLinks": false,
 	"replacementCharacterMap": {
+		" ": "-",
+		"é": "e",
+		"ö": "o",
+		"ø": "o",
+		"ń": "n",
+
+		"!": "_",
+		"%": "_",
+		"&": "_",
+		"'": "_",
+		"(": "_",
+		")": "_",
+		"+": "_",
+		",": "_",
+		";": "_",
+		"=": "_",
+		"@": "_",
+		"–": "_",
+		"—": "_",
+		"’": "_",
+		"“": "_",
+		"”": "_",
+		"…": "_",
+
 		"<": "_",
 		">": "_",
 		":": "_",
