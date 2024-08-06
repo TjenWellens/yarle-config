@@ -1,6 +1,6 @@
 {
 	"enexSources": [
-		"/Users/tjen/Downloads/yarle-run/input/evernote.toc/all/Blog.enex"
+		"/Users/tjen/Downloads/yarle-run/input/evernote.toc.titled/all/Blog.enex"
 	],
 	"templateFile": "/Users/tjen/dev/tjen/yarle-config/template-blog.tmpl",
 	"outputDir": "/Users/tjen/Downloads/yarle-run/output2",
